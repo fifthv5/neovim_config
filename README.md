@@ -1,4 +1,12 @@
-# 💤 LazyVim
+# NordVim
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+## This is my neovim config using Lazyvim as the plugin manager
+
+## Installation
+
+```fish
+cd neovim_config
+rm -rf ~/.config/nvim/*
+mv * ~/.config/nvim/
+```
+
